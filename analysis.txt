@@ -1,0 +1,175 @@
+Date: 2/24
+count: 53
+Date: 2/25
+count: 57
+Increase by: 4 from the previous date
+Date: 2/26
+count: 60
+Increase by: 3 from the previous date
+Date: 2/27
+count: 60
+Increase by: 0 from the previous date
+Date: 2/28
+count: 66
+Increase by: 6 from the previous date
+Date: 2/29
+count: 71
+Increase by: 5 from the previous date
+Date: 3/1
+count: 91
+Increase by: 20 from the previous date
+Date: 3/2
+count: 107
+Increase by: 16 from the previous date
+Date: 3/3
+count: 130
+Increase by: 23 from the previous date
+Date: 3/4
+count: 162
+Increase by: 32 from the previous date
+Date: 3/5
+count: 236
+Increase by: 74 from the previous date
+Date: 3/6
+count: 345
+Increase by: 109 from the previous date
+Date: 3/7
+count: 461
+Increase by: 116 from the previous date
+Date: 3/8
+count: 589
+Increase by: 128 from the previous date
+Date: 3/9
+count: 755
+Increase by: 166 from the previous date
+Date: 3/10
+count: 1052
+Increase by: 297 from the previous date
+Date: 3/11
+count: 1329
+Increase by: 277 from the previous date
+Date: 3/12
+count: 1758
+Increase by: 429 from the previous date
+Date: 3/13
+count: 2330
+Increase by: 572 from the previous date
+Date: 3/14
+count: 3043
+Increase by: 713 from the previous date
+Date: 3/15
+count: 3802
+Increase by: 759 from the previous date
+Date: 3/16
+count: 4727
+Increase by: 925 from the previous date
+Date: 3/17
+count: 6506
+Increase by: 1779 from the previous date
+Date: 3/18
+count: 9416
+Increase by: 2910 from the previous date
+Date: 3/19
+count: 12160
+Increase by: 2744 from the previous date
+Date: 3/20
+count: 17786
+Increase by: 5626 from the previous date
+Date: 3/21
+count: 26512
+Increase by: 8726 from the previous date
+Date: 3/22
+count: 34669
+Increase by: 8157 from the previous date
+Date: 3/23
+count: 44387
+Increase by: 9718 from the previous date
+Date: 3/24
+count: 53685
+Increase by: 9298 from the previous date
+Numbers increased by: 4 on: 
+Date: 2/25
+Numbers increased by: 3 on: 
+Date: 2/26
+Rate of increasing increasingness is: -1
+Numbers increased by: 0 on: 
+Date: 2/27
+Rate of increasing increasingness is: -3
+Numbers increased by: 6 on: 
+Date: 2/28
+Rate of increasing increasingness is: 6
+Numbers increased by: 5 on: 
+Date: 2/29
+Rate of increasing increasingness is: -1
+Numbers increased by: 20 on: 
+Date: 3/1
+Rate of increasing increasingness is: 15
+Numbers increased by: 16 on: 
+Date: 3/2
+Rate of increasing increasingness is: -4
+Numbers increased by: 23 on: 
+Date: 3/3
+Rate of increasing increasingness is: 7
+Numbers increased by: 32 on: 
+Date: 3/4
+Rate of increasing increasingness is: 9
+Numbers increased by: 74 on: 
+Date: 3/5
+Rate of increasing increasingness is: 42
+Numbers increased by: 109 on: 
+Date: 3/6
+Rate of increasing increasingness is: 35
+Numbers increased by: 116 on: 
+Date: 3/7
+Rate of increasing increasingness is: 7
+Numbers increased by: 128 on: 
+Date: 3/8
+Rate of increasing increasingness is: 12
+Numbers increased by: 166 on: 
+Date: 3/9
+Rate of increasing increasingness is: 38
+Numbers increased by: 297 on: 
+Date: 3/10
+Rate of increasing increasingness is: 131
+Numbers increased by: 277 on: 
+Date: 3/11
+Rate of increasing increasingness is: -20
+Numbers increased by: 429 on: 
+Date: 3/12
+Rate of increasing increasingness is: 152
+Numbers increased by: 572 on: 
+Date: 3/13
+Rate of increasing increasingness is: 143
+Numbers increased by: 713 on: 
+Date: 3/14
+Rate of increasing increasingness is: 141
+Numbers increased by: 759 on: 
+Date: 3/15
+Rate of increasing increasingness is: 46
+Numbers increased by: 925 on: 
+Date: 3/16
+Rate of increasing increasingness is: 166
+Numbers increased by: 1779 on: 
+Date: 3/17
+Rate of increasing increasingness is: 854
+Numbers increased by: 2910 on: 
+Date: 3/18
+Rate of increasing increasingness is: 1131
+Numbers increased by: 2744 on: 
+Date: 3/19
+Rate of increasing increasingness is: -166
+Numbers increased by: 5626 on: 
+Date: 3/20
+Rate of increasing increasingness is: 2882
+Numbers increased by: 8726 on: 
+Date: 3/21
+Rate of increasing increasingness is: 3100
+Numbers increased by: 8157 on: 
+Date: 3/22
+Rate of increasing increasingness is: -569
+Numbers increased by: 9718 on: 
+Date: 3/23
+Rate of increasing increasingness is: 1561
+Numbers increased by: 9298 on: 
+Date: 3/24
+Rate of increasing increasingness is: -420
